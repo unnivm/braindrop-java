@@ -26,7 +26,6 @@ public class Braindrops {
 			app.start();
 		} catch (SlickException ex) {
 			Logger.getLogger(Rainy.class.getName()).log(Level.SEVERE, null, ex);
-
 		}
 	}
 }
