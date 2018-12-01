@@ -10,7 +10,13 @@ import braindrops.entities.*;
 import braindrops.ui.*;
 import braindrops.util.*;
 
+/**
+ * 
+ * @author Unni Mana
+ *
+ */
 public class Braindrops {
+	
 	public static void main(String[] args) {
 		try {
 			AppGameContainer app = new AppGameContainer(new Rainy());
