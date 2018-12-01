@@ -12,7 +12,7 @@ import braindrops.util.*;
 
 /**
  * 
- * @author Unni.Mana.
+ * @author Unni.Mana
  *
  */
 public class Braindrops {
