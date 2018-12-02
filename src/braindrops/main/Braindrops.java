@@ -14,7 +14,7 @@ import braindrops.util.*;
  * 
  * @author Unni.Mana
  *
- * Entry class for Braindrop game
+ * Entry class for Braindrop game. OK
  */
 public class Braindrops {
 	
@@ -25,8 +25,10 @@ public class Braindrops {
 			app.setTargetFrameRate(125);
 			app.setShowFPS(true);
 			app.start();
+			
 		} catch (SlickException ex) {
 			Logger.getLogger(Rainy.class.getName()).log(Level.SEVERE, null, ex);
 		}
+		
 	}
 }
