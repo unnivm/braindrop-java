@@ -14,6 +14,7 @@ import braindrops.util.*;
  * 
  * @author Unni.Mana
  *
+ * Entry class for Braindrop game
  */
 public class Braindrops {
 	
