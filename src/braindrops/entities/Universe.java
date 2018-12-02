@@ -14,7 +14,7 @@ import org.newdawn.slick.geom.Rectangle;
  * 
  * @author Binu
  * 
- * Universe class
+ * Universe class for game
  */
 public class Universe {
 	// *********SETTINGS****************************
