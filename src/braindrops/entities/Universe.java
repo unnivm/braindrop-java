@@ -10,6 +10,12 @@ import org.newdawn.slick.Graphics;
 import org.newdawn.slick.geom.Ellipse;
 import org.newdawn.slick.geom.Rectangle;
 
+/**
+ * 
+ * @author Binu
+ * 
+ * Universe class
+ */
 public class Universe {
 	// *********SETTINGS****************************
 	private float mWind = 1.0f;
